@@ -1,5 +1,6 @@
 # Supermajorities: An Evolutionary Data Structure for Sets
 Code written for the blog post: https://thomasahle.com/blog/sets.html
+and the article: https://arxiv.org/abs/1904.04045
 
 Example of use:
 

@@ -4,6 +4,7 @@ and the article: https://arxiv.org/abs/1904.04045
 
 Example of use:
 
+```
     U = 10**3 + 9
     n = 10**4
     w1, wq, wu = int(.1 * U), int(.2 * U), int(.2 * U)
@@ -30,4 +31,4 @@ Example of use:
             best = (inter, point)
 
     print(f'Best result was: {best}')
-    
+```
